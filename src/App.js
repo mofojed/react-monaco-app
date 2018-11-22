@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import * as monaco from 'monaco-editor';
 import logo from './logo.svg';
 import './App.css';
 
